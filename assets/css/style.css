@@ -205,3 +205,88 @@
                                                                                     #guide span {
                                                                                         display: list-item;
                                                                                     }
+                                                                                    /*raid style*/
+                                                                                    
+                                                                                    .raid {
+                                                                                        background-image: url(https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com//var/app/current/web/app/uploads/2020/07/WoW-Shadowlands-Beta-startet.jpg);
+                                                                                        background-repeat: no-repeat;
+                                                                                        text-align: center;
+                                                                                        background-position: center center;
+                                                                                        height: 600px;
+                                                                                        clear: both;
+                                                                                    }
+                                                                                    
+                                                                                    .raid h2 {
+                                                                                        font-size: 280%;
+                                                                                        padding-top: 280px;
+                                                                                        font-family: roboto, sans-serif;
+                                                                                        text-decoration: none;
+                                                                                    }
+                                                                                    
+                                                                                    .raid a {
+                                                                                        font-size: 1.7rem;
+                                                                                        color: #ffb101;
+                                                                                        font-family: beba neue, sans-serif;
+                                                                                        margin: 30px;
+                                                                                        text-decoration: none;
+                                                                                    }
+                                                                                    
+                                                                                    .raid a:hover {
+                                                                                        color: aqua;
+                                                                                    }
+                                                                                    
+                                                                                    #times h3 {
+                                                                                        font-size: 180%;
+                                                                                        margin: 10px;
+                                                                                        font-family: roboto, sans-serif;
+                                                                                    }
+                                                                                    
+                                                                                    #times p {
+                                                                                        font-size: 1.3rem;
+                                                                                        font-family: beba neue, sans-serif;
+                                                                                        padding: 10px;
+                                                                                    }
+                                                                                    /*raiders style*/
+                                                                                    
+                                                                                    .raidroster {
+                                                                                        background-color: black;
+                                                                                        background-repeat: no-repeat;
+                                                                                        background-position: center center;
+                                                                                        height: 900px;
+                                                                                        width: 100%;
+                                                                                        clear: both;
+                                                                                    }
+                                                                                    
+                                                                                    .raidroster h2 {
+                                                                                        font-size: 280%;
+                                                                                        font-family: roboto, sans-serif;
+                                                                                        text-align: center;
+                                                                                    }
+                                                                                    
+                                                                                    .main {
+                                                                                        text-align: center;
+                                                                                        column-count: 4;
+                                                                                    }
+                                                                                    
+                                                                                    #roster li {
+                                                                                        list-style: none;
+                                                                                    }
+                                                                                    
+                                                                                    #roster a {
+                                                                                        text-decoration: none;
+                                                                                        color: #ffb101;
+                                                                                        font-size: 2rem;
+                                                                                    }
+                                                                                    
+                                                                                    #roster a:hover {
+                                                                                        color: aqua;
+                                                                                    }
+                                                                                    
+                                                                                    #roster img {
+                                                                                        width: 40%;
+                                                                                    }
+                                                                                    
+                                                                                    #roster span {
+                                                                                        display: flow-root;
+                                                                                        padding-top: 10px;
+                                                                                    }
