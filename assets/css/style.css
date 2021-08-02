@@ -1,363 +1,361 @@
-                                                                                    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
-                                                                                    * {
-                                                                                        margin: 0%;
-                                                                                        padding: 0%;
-                                                                                        border: none;
-                                                                                    }
+    @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+                                                                                
+* {
+   margin: 0%;
+padding: 0%;
+   border: none;
+ }
                                                                                     
-                                                                                    body {
-                                                                                        font-family: roboto, sans-serif;
-                                                                                        font-weight: 300;
-                                                                                        color: #ffb101;
-                                                                                        background-color: black;
-                                                                                    }
-                                                                                    /* heading and logo style*/
+ body {
+   font-family: roboto, sans-serif;
+   font-weight: 300;
+  color: #ffb101;
+   background-color: black;
+}
+/* heading and logo style*/
+ h1,
+h2 {
+    font-family: bebas neue, sans-serif;
+   text-transform: uppercase;
+     letter-spacing: 4px;
+     color: #ffb101;
+  }
                                                                                     
-                                                                                    h1,
-                                                                                    h2 {
-                                                                                        font-family: bebas neue, sans-serif;
-                                                                                        text-transform: uppercase;
-                                                                                        letter-spacing: 4px;
-                                                                                        color: #ffb101;
-                                                                                    }
+#logo {
+    float: left;
+   font-size: 280%;
+     margin-left: 30px;
+  }
+  /* navigation links*/
+  #menu {
+     font-size: 110%;
+    letter-spacing: 4px;
+  }
                                                                                     
-                                                                                    #logo {
-                                                                                        float: left;
-                                                                                        font-size: 280%;
-                                                                                        margin-left: 30px;
-                                                                                    }
-                                                                                    /* navigation links*/
+#menu,
+ #logo {
+  line-height: 75px;
+  }
                                                                                     
-                                                                                    #menu {
-                                                                                        font-size: 110%;
-                                                                                        letter-spacing: 4px;
-                                                                                    }
+ #menu li {
+float: right;
+    margin-right: 30px;
+    list-style-type: none;
+}
                                                                                     
-                                                                                    #menu,
-                                                                                    #logo {
-                                                                                        line-height: 75px;
-                                                                                    }
+  #menu a {
+     text-decoration: none;
+   color: inherit;
+  }
                                                                                     
-                                                                                    #menu li {
-                                                                                        float: right;
-                                                                                        margin-right: 30px;
-                                                                                        list-style-type: none;
-                                                                                    }
+ #menu a:hover {
+   color: aqua;
+   }
+     /* shadowland image*/
                                                                                     
-                                                                                    #menu a {
-                                                                                        text-decoration: none;
-                                                                                        color: inherit;
-                                                                                    }
+#shadow {
+ height: 600px;
+ width: 100%;
+  overflow: hidden;
+  position: relative;
+  }
                                                                                     
-                                                                                    #menu a:hover {
-                                                                                        color: aqua;
-                                                                                    }
-                                                                                    /* shadowland image*/
+  #cover-info #cover-info h2 {
+    color: red;
+ }
                                                                                     
-                                                                                    #shadow {
-                                                                                        height: 600px;
-                                                                                        width: 100%;
-                                                                                        overflow: hidden;
-                                                                                        position: relative;
-                                                                                    }
+ #shadowland {
+       height: 600px;
+          width: 100%;
+          background-image: url("https://wow.zamimg.com/uploads/blog/images/17630-sylvanas-saurfang-narrative-wrapped-up-no-gameplay-impact-in-shadowlands.jpg");
+           background-repeat: no-repeat;
+   background-position: center center;
+     }
                                                                                     
-                                                                                    #cover-info #cover-info h2 {
-                                                                                        color: red;
-                                                                                    }
+ #cover-info {
+ font-size: 130%;
+ font-family: Roboto, sans-serif;
+ text-transform: uppercase;
+letter-spacing: 4px;
+ width: 300px;
+height: 200px;
+ padding-top: 40px;
+padding-left: 10px;
+background-color: rgba(238, 255, 0, 0.473);
+bottom: 30px;
+ right: 150px;
+position: absolute;
+ }
+ /*abaout us*/
                                                                                     
-                                                                                    #shadowland {
-                                                                                        height: 600px;
-                                                                                        width: 100%;
-                                                                                        background-image: url("https://wow.zamimg.com/uploads/blog/images/17630-sylvanas-saurfang-narrative-wrapped-up-no-gameplay-impact-in-shadowlands.jpg");
-                                                                                        background-repeat: no-repeat;
-                                                                                        background-position: center center;
-                                                                                    }
+#about {
+ height: 600px;
+text-align: center;
+}
                                                                                     
-                                                                                    #cover-info {
-                                                                                        font-size: 130%;
-                                                                                        font-family: Roboto, sans-serif;
-                                                                                        text-transform: uppercase;
-                                                                                        letter-spacing: 4px;
-                                                                                        width: 300px;
-                                                                                        height: 200px;
-                                                                                        padding-top: 40px;
-                                                                                        padding-left: 10px;
-                                                                                        background-color: rgba(238, 255, 0, 0.473);
-                                                                                        bottom: 30px;
-                                                                                        right: 150px;
-                                                                                        position: absolute;
-                                                                                    }
-                                                                                    /*abaout us*/
+ #about #we-tell {
+padding: 10px 0 10px;
+ }
                                                                                     
-                                                                                    #about {
-                                                                                        height: 600px;
-                                                                                        text-align: center;
-                                                                                    }
+ #us {
+  margin: 25px;
+  font-size: 280%;
+ font-family: roboto, sans-serif;
+}
                                                                                     
-                                                                                    #about #we-tell {
-                                                                                        padding: 10px 0 10px;
-                                                                                    }
+#pa {
+ width: 100%;
+ text-align: center;
+ margin: 0 auto;
+ background-color: #ffb101;
+color: black;
+font-size: 1.5rem;
+ font-family: bebas neue, sans-serif;
+ }
+/*sign up with you name */
                                                                                     
-                                                                                    #us {
-                                                                                        margin: 25px;
-                                                                                        font-size: 280%;
-                                                                                        font-family: roboto, sans-serif;
-                                                                                    }
+ #youname {
+text-align: center;
+background-color: #ffb101;
+border-style: solid;
+border-color: black;
+}
                                                                                     
-                                                                                    #pa {
-                                                                                        width: 100%;
-                                                                                        text-align: center;
-                                                                                        margin: 0 auto;
-                                                                                        background-color: #ffb101;
-                                                                                        color: black;
-                                                                                        font-size: 1.5rem;
-                                                                                        font-family: bebas neue, sans-serif;
-                                                                                    }
-                                                                                    /*sign up with you name */
+.form-label {
+ color: black;
+ font-family: bebas neue, sans-serif;
+ }
                                                                                     
-                                                                                    #youname {
-                                                                                        text-align: center;
-                                                                                        background-color: #ffb101;
-                                                                                        border-style: solid;
-                                                                                        border-color: black;
-                                                                                    }
+.form-text {
+color: black;
+font-family: bebas neue, sans-serif;
+ font-size: 1.2rem;
+ }
+/* footer style*/
                                                                                     
-                                                                                    .form-label {
-                                                                                        color: black;
-                                                                                        font-family: bebas neue, sans-serif;
-                                                                                    }
+.footer {
+ text-align: center;
+background-color: #ffb101;
+}
                                                                                     
-                                                                                    .form-text {
-                                                                                        color: black;
-                                                                                        font-family: bebas neue, sans-serif;
-                                                                                        font-size: 1.2rem;
-                                                                                    }
-                                                                                    /* footer style*/
+.social {
+     color: black; }
+ .copyright {
+ color: black;
+font-family: bebas neue;
+ font-size: 1rem;
+}
+/*videos style*/
                                                                                     
-                                                                                    .footer {
-                                                                                        text-align: center;
-                                                                                        background-color: #ffb101;
-                                                                                    }
+ .videos {
+  background-image: url("https://wow.zamimg.com/uploads/screenshots/normal/1020692.jpg");
+ background-repeat: no-repeat;
+ background-position: center center;
+overflow: hidden;
+height: 768px;
+width: 100%;
+}
                                                                                     
-                                                                                    .social {
-                                                                                        color: black;
-                                                                                    }
+.videos h2 {
+text-align: center;
+font-size: 280%;
+ margin: 25px;
+}
                                                                                     
-                                                                                    .copyright {
-                                                                                        color: black;
-                                                                                        font-family: bebas neue;
-                                                                                        font-size: 1rem;
-                                                                                    }/*videos style*/
+.videos #allvideos {
+ text-align: center;
+ column-count: 5;
+padding: 20px 0;
+}
+
+.videos a {
+ padding: 5px;
+}
+ /*guides style*/
                                                                                     
-                                                                                    .videos {
-                                                                                        background-image: url("https://wow.zamimg.com/uploads/screenshots/normal/1020692.jpg");
-                                                                                        background-repeat: no-repeat;
-                                                                                        background-position: center center;
-                                                                                        overflow: hidden;
-                                                                                        height: 768px;
-                                                                                        width: 100%;
-                                                                                    }
+.classguide {
+ text-align: center;
+ text-decoration: none;
+ }
                                                                                     
-                                                                                    .videos h2 {
-                                                                                        text-align: center;
-                                                                                        font-size: 280%;
-                                                                                        margin: 25px;
-                                                                                    }
+ .class {
+column-count: 2;
+ }
                                                                                     
-                                                                                    .videos #allvideos {
-                                                                                        text-align: center;
-                                                                                        column-count: 5;
-                                                                                        padding: 20px 0;
-                                                                                    }
+#guide li {
+ list-style: none;
+}
                                                                                     
-                                                                                    .videos a {
-                                                                                        padding: 5px;
-                                                                                    }
-                                                                                    /*guides style*/
+#guide a {
+ text-decoration: none;
+ font-size: 1.5rem;
+color: #ffb101;
+}
                                                                                     
-                                                                                    .classguide {
-                                                                                        text-align: center;
-                                                                                        text-decoration: none;
-                                                                                    }
+#guide a:hover {
+   color: aqua;
+ }
                                                                                     
-                                                                                    .class {
-                                                                                        column-count: 2;
-                                                                                    }
+#guide img {
+ height: 250px;
+}
                                                                                     
-                                                                                    #guide li {
-                                                                                        list-style: none;
-                                                                                    }
+#guide span {
+ display: list-item;
+ }
+ /*raid style*/
                                                                                     
-                                                                                    #guide a {
-                                                                                        text-decoration: none;
-                                                                                        font-size: 1.5rem;
-                                                                                        color: #ffb101;
-                                                                                    }
+ .raid {
+ background-image: url(https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com//var/app/current/web/app/uploads/2020/07/WoW-Shadowlands-Beta-startet.jpg);
+ background-repeat: no-repeat;
+ text-align: center;
+ background-position: center center;
+height: 600px;
+clear: both;
+}
                                                                                     
-                                                                                    #guide a:hover {
-                                                                                        color: aqua;
-                                                                                    }
+.raid h2 {
+ font-size: 280%;
+ padding-top: 280px;
+ font-family: roboto, sans-serif;
+ text-decoration: none;
+ }
                                                                                     
-                                                                                    #guide img {
-                                                                                        height: 250px;
-                                                                                    }
+ .raid a {
+  font-size: 1.7rem;
+ color: #ffb101;
+ font-family: beba neue, sans-serif;
+ margin: 30px;
+ text-decoration: none;
+ }
                                                                                     
-                                                                                    #guide span {
-                                                                                        display: list-item;
-                                                                                    }
-                                                                                    /*raid style*/
+ .raid a:hover {
+  color: aqua;
+ }
                                                                                     
-                                                                                    .raid {
-                                                                                        background-image: url(https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com//var/app/current/web/app/uploads/2020/07/WoW-Shadowlands-Beta-startet.jpg);
-                                                                                        background-repeat: no-repeat;
-                                                                                        text-align: center;
-                                                                                        background-position: center center;
-                                                                                        height: 600px;
-                                                                                        clear: both;
-                                                                                    }
+ #times h3 {
+ font-size: 180%;
+ margin: 10px;
+ font-family: roboto, sans-serif;
+ }
                                                                                     
-                                                                                    .raid h2 {
-                                                                                        font-size: 280%;
-                                                                                        padding-top: 280px;
-                                                                                        font-family: roboto, sans-serif;
-                                                                                        text-decoration: none;
-                                                                                    }
+ #times p {
+ font-size: 1.3rem;
+ font-family: beba neue, sans-serif;
+ padding: 10px;
+}
+/*raiders style*/
                                                                                     
-                                                                                    .raid a {
-                                                                                        font-size: 1.7rem;
-                                                                                        color: #ffb101;
-                                                                                        font-family: beba neue, sans-serif;
-                                                                                        margin: 30px;
-                                                                                        text-decoration: none;
-                                                                                    }
+.raidroster {
+background-color: black;
+background-repeat: no-repeat;
+ background-position: center center;
+ width: 100%;
+ clear: both;
+ }
                                                                                     
-                                                                                    .raid a:hover {
-                                                                                        color: aqua;
-                                                                                    }
+.raidroster h2 {
+ font-size: 280%;
+ font-family: roboto, sans-serif;
+ text-align: center;
+}
                                                                                     
-                                                                                    #times h3 {
-                                                                                        font-size: 180%;
-                                                                                        margin: 10px;
-                                                                                        font-family: roboto, sans-serif;
-                                                                                    }
+.main {
+text-align: center;
+ column-count: 4;
+ }
                                                                                     
-                                                                                    #times p {
-                                                                                        font-size: 1.3rem;
-                                                                                        font-family: beba neue, sans-serif;
-                                                                                        padding: 10px;
-                                                                                    }
-                                                                                    /*raiders style*/
+ #roster li {
+ list-style: none;
+ }
                                                                                     
-                                                                                    .raidroster {
-                                                                                        background-color: black;
-                                                                                        background-repeat: no-repeat;
-                                                                                        background-position: center center;
-                                                                                        width: 100%;
-                                                                                        clear: both;
-                                                                                    }
+ #roster a {
+ text-decoration: none;
+ color: #ffb101;
+ font-size: 2rem;
+ }
                                                                                     
-                                                                                    .raidroster h2 {
-                                                                                        font-size: 280%;
-                                                                                        font-family: roboto, sans-serif;
-                                                                                        text-align: center;
-                                                                                    }
+ #roster a:hover {
+ color: aqua;
+ }
                                                                                     
-                                                                                    .main {
-                                                                                        text-align: center;
-                                                                                        column-count: 4;
-                                                                                    }
+ #roster img {
+ width: 40%;
+ }
                                                                                     
-                                                                                    #roster li {
-                                                                                        list-style: none;
-                                                                                    }
+ #roster span {
+ display: flow-root;
+ padding-top: 10px;
+ }
+/*media queries*/
                                                                                     
-                                                                                    #roster a {
-                                                                                        text-decoration: none;
-                                                                                        color: #ffb101;
-                                                                                        font-size: 2rem;
-                                                                                    }
+ @media screen and (max-width: 1200px) {
+ #about {
+ width: 65%;
+ height: 1200px;
+ margin: 0 auto;
+ }
+ #us {
+ padding: 30px 0;
+ margin: 0;
+ }
+}                                                                              
                                                                                     
-                                                                                    #roster a:hover {
-                                                                                        color: aqua;
-                                                                                    }
+.videos>div {
+     width: 100%;
+ clear: both;
+ height: 150px;
+ padding: 0%;
+ }
                                                                                     
-                                                                                    #roster img {
-                                                                                        width: 40%;
-                                                                                    }
+ .allvideos a {
+ width: 100%;
+ clear: both;
+ height: 150px;
+ padding: 0;
+}
+ /*for media screen sizes fro 950px wide and down*/
                                                                                     
-                                                                                    #roster span {
-                                                                                        display: flow-root;
-                                                                                        padding-top: 10px;
-                                                                                    }
-                                                                                    /*media queries*/
+ @media screen and (max-width: 950px) {
+ #menu {
+ clear: left;
+ float: left;
+ margin-left: 30px;
+ margin-bottom: 20px;
+ line-height: 25px;
+ }
+ #cove-info {
+ left: 0%;
+ }
+ #about {
+ width: 90%;
+ height: 1200px;
+ margin: 0 auto;
+ }
+ #we-tell #pa {
+ text-align: center;
+ padding: 0 20px;
+ }
+ .videos{
+ height: 1085px;
+ }
+ .videos #allvideos {
+  column-count: 2;
+ }
+ }
+/*for small screen sizes 800px and down*/
                                                                                     
-                                                                                    @media screen and (max-width: 1200px) {
-                                                                                        #about {
-                                                                                            width: 65%;
-                                                                                            height: 1200px;
-                                                                                            margin: 0 auto;
-                                                                                        }
-                                                                                        #us {
-                                                                                            padding: 30px 0;
-                                                                                            margin: 0;
-                                                                                        }
-                                                                                    }
-                                                                                    
-                                                                                    .videos>div {
-                                                                                        width: 100%;
-                                                                                        clear: both;
-                                                                                        height: 150px;
-                                                                                        padding: 0%;
-                                                                                    }
-                                                                                    
-                                                                                    .allvideos a {
-                                                                                        width: 100%;
-                                                                                        clear: both;
-                                                                                        height: 150px;
-                                                                                        padding: 0;
-                                                                                    }
-                                                                                    /*for media screen sizes fro 950px wide and down*/
-                                                                                    
-                                                                                    @media screen and (max-width: 950px) {
-                                                                                        #menu {
-                                                                                            clear: left;
-                                                                                            float: left;
-                                                                                            margin-left: 30px;
-                                                                                            margin-bottom: 20px;
-                                                                                            line-height: 25px;
-                                                                                        }
-                                                                                        #cove-info {
-                                                                                            left: 0%;
-                                                                                        }
-                                                                                        #about {
-                                                                                            width: 90%;
-                                                                                            height: 1200px;
-                                                                                            margin: 0 auto;
-                                                                                        }
-                                                                                        #we-tell #pa {
-                                                                                            text-align: center;
-                                                                                            padding: 0 20px;
-                                                                                        }
-                                                                                        .videos{
-                                                                                            height: 1085px;
-                                                                                        }
-                                                                                        .videos #allvideos {
-                                                                                            column-count: 2;
-                                                                                        }
-                                                                                    }
-                                                                                    /*for small screen sizes 800px and down*/
-                                                                                    
-                                                                                    @media screen and (max-width: 800px) {
-                                                                                        .class {
-                                                                                            column-count: 1;
-                                                                                        }
-                                                                                        .videos {
-                                                                                            height: 1200px;
-                                                                                        }
-                                                                                        .videos #allvideos {
-                                                                                            column-count: 2;
-                                                                                        }
-                                                                                        .main {
-                                                                                            column-count: 1;
-                                                                                        }
-                                                                                    }
+ @media screen and (max-width: 800px) {
+      .class {
+   column-count: 1;
+ }
+ .videos {
+   height: 1200px;
+ }
+ .videos #allvideos {
+ column-count: 2;
+}
+.main {
+column-count: 1;
+ }
+ }
