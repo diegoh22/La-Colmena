@@ -138,8 +138,10 @@ font-family: bebas neue, sans-serif;
 background-color: #ffb101;
 }
                                                                                     
-.social {
-     color: black; }
+.fab {
+     color: black; 
+     font-size: 3rem;
+    }
  .copyright {
  color: black;
 font-family: bebas neue;
