@@ -290,3 +290,72 @@
                                                                                         display: flow-root;
                                                                                         padding-top: 10px;
                                                                                     }
+                                                                                    /*media queries*/
+                                                                                    
+                                                                                    @media screen and (max-width: 1200px) {
+                                                                                        #about {
+                                                                                            width: 65%;
+                                                                                            height: 1200px;
+                                                                                            margin: 0 auto;
+                                                                                        }
+                                                                                        #us {
+                                                                                            padding: 30px 0;
+                                                                                            margin: 0;
+                                                                                        }
+                                                                                    }
+                                                                                    
+                                                                                    .videos>div {
+                                                                                        width: 100%;
+                                                                                        clear: both;
+                                                                                        height: 150px;
+                                                                                        padding: 0%;
+                                                                                    }
+                                                                                    
+                                                                                    .allvideos a {
+                                                                                        width: 100%;
+                                                                                        clear: both;
+                                                                                        height: 150px;
+                                                                                        padding: 0;
+                                                                                    }
+                                                                                    /*for media screen sizes fro 950px wide and down*/
+                                                                                    
+                                                                                    @media screen and (max-width: 950px) {
+                                                                                        #menu {
+                                                                                            clear: left;
+                                                                                            float: left;
+                                                                                            margin-left: 30px;
+                                                                                            margin-bottom: 20px;
+                                                                                            line-height: 25px;
+                                                                                        }
+                                                                                        #cove-info {
+                                                                                            left: 0%;
+                                                                                        }
+                                                                                        #about {
+                                                                                            width: 90%;
+                                                                                            height: 1200px;
+                                                                                            margin: 0 auto;
+                                                                                        }
+                                                                                        #we-tell #pa {
+                                                                                            text-align: center;
+                                                                                            padding: 0 20px;
+                                                                                        }
+                                                                                        .videos #allvideos {
+                                                                                            column-count: 2;
+                                                                                        }
+                                                                                    }
+                                                                                    /*for small screen sizes 800px and down*/
+                                                                                    
+                                                                                    @media screen and (max-width: 800px) {
+                                                                                        .class {
+                                                                                            column-count: 1;
+                                                                                        }
+                                                                                        .videos {
+                                                                                            height: 1200px;
+                                                                                        }
+                                                                                        .videos #allvideos {
+                                                                                            column-count: 2;
+                                                                                        }
+                                                                                        .main {
+                                                                                            column-count: 1;
+                                                                                        }
+                                                                                    }
