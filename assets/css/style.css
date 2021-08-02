@@ -252,7 +252,6 @@
                                                                                         background-color: black;
                                                                                         background-repeat: no-repeat;
                                                                                         background-position: center center;
-                                                                                        height: 900px;
                                                                                         width: 100%;
                                                                                         clear: both;
                                                                                     }
@@ -338,6 +337,9 @@
                                                                                         #we-tell #pa {
                                                                                             text-align: center;
                                                                                             padding: 0 20px;
+                                                                                        }
+                                                                                        .videos{
+                                                                                            height: 1085px;
                                                                                         }
                                                                                         .videos #allvideos {
                                                                                             column-count: 2;
