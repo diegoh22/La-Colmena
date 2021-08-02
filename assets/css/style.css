@@ -147,4 +147,61 @@
                                                                                         color: black;
                                                                                         font-family: bebas neue;
                                                                                         font-size: 1rem;
+                                                                                    }/*videos style*/
+                                                                                    
+                                                                                    .videos {
+                                                                                        background-image: url("https://wow.zamimg.com/uploads/screenshots/normal/1020692.jpg");
+                                                                                        background-repeat: no-repeat;
+                                                                                        background-position: center center;
+                                                                                        overflow: hidden;
+                                                                                        height: 768px;
+                                                                                        width: 100%;
+                                                                                    }
+                                                                                    
+                                                                                    .videos h2 {
+                                                                                        text-align: center;
+                                                                                        font-size: 280%;
+                                                                                        margin: 25px;
+                                                                                    }
+                                                                                    
+                                                                                    .videos #allvideos {
+                                                                                        text-align: center;
+                                                                                        column-count: 5;
+                                                                                        padding: 20px 0;
+                                                                                    }
+                                                                                    
+                                                                                    .videos a {
+                                                                                        padding: 5px;
+                                                                                    }
+                                                                                    /*guides style*/
+                                                                                    
+                                                                                    .classguide {
+                                                                                        text-align: center;
+                                                                                        text-decoration: none;
+                                                                                    }
+                                                                                    
+                                                                                    .class {
+                                                                                        column-count: 2;
+                                                                                    }
+                                                                                    
+                                                                                    #guide li {
+                                                                                        list-style: none;
+                                                                                    }
+                                                                                    
+                                                                                    #guide a {
+                                                                                        text-decoration: none;
+                                                                                        font-size: 1.5rem;
+                                                                                        color: #ffb101;
+                                                                                    }
+                                                                                    
+                                                                                    #guide a:hover {
+                                                                                        color: aqua;
+                                                                                    }
+                                                                                    
+                                                                                    #guide img {
+                                                                                        height: 250px;
+                                                                                    }
+                                                                                    
+                                                                                    #guide span {
+                                                                                        display: list-item;
                                                                                     }
