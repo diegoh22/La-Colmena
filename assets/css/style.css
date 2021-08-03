@@ -570,6 +570,29 @@
         #roster span{
             font-size: 1.5rem;
         }
-        
+        .recruiting h1{
+            font-size: 150%;
+            padding: 10px 0 10px;
+        }
+        .recruiting p {
+            font-size: 1.2rem;
+            padding: 10px 0 10px;
+        }
+        #contactUs {
+            font-size: 150%;
+            padding: 0 0 10px;
+        }
+        .form {
+            font-size: 1.2rem;
+        }
+        .email{
+            font-size: 1rem;
+        }
+        .form-input{
+            font-size: 1.2rem;
+        }
+        #formButton{
+            font-size: 1.2rem;
+        }
 
     }
