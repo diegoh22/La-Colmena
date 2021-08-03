@@ -55,17 +55,11 @@
         color: aqua;
     }
 
-    #menu a:active {
+    #menu a.active {
         border-bottom: solid 2px;
+        border-color:aqua;
     }
 
-    #menu a:focus {
-        bottom: solid 2px;
-    }
-
-    #menu a:focus-visible {
-        bottom: solid 2px;
-    }
 
     /* shadowland image*/
 
