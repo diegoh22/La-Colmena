@@ -1,13 +1,5 @@
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
-    @function max($numbers...) {
-        @return m#{a}x(#{$numbers});
-    }
-
-    @function min($numbers...) {
-        @return m#{i}n(#{$numbers});
-    }
-
     * {
         margin: 0%;
         padding: 0%;
