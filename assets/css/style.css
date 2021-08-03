@@ -19,8 +19,9 @@
         font-family: bebas neue, sans-serif;
         text-transform: uppercase;
         letter-spacing: 4px;
-        color: #ffb101;
-        
+        color:#ffb101;
+       
+
     }
 
     #logo {
@@ -57,7 +58,7 @@
 
     #menu a.active {
         border-bottom: solid 2px;
-        border-color:aqua;
+        border-color: aqua;
     }
 
 
@@ -77,9 +78,10 @@
     #shadowland {
         height: 600px;
         width: 100%;
-        background-image: url("https://wow.zamimg.com/uploads/blog/images/17630-sylvanas-saurfang-narrative-wrapped-up-no-gameplay-impact-in-shadowlands.jpg");
+        background-image: url("https://www.dailyesports.gg/wp-content/uploads/2019/11/sylvanas.jpg");
         background-repeat: no-repeat;
         background-position: center center;
+        background-size: 100%;
     }
 
     #cover-info {
@@ -102,6 +104,14 @@
     #about {
         height: auto;
         text-align: center;
+        
+    }
+    #about h2{
+        background-color: #ffb101;
+        color: black;
+    }
+    #about h3{
+        font-size: 1.5rem;
     }
 
     #about #we-tell {
@@ -117,7 +127,7 @@
     #pa {
         width: 100%;
         text-align: center;
-        margin:20px 0 20px;
+        margin: 20px 0 20px;
         background-color: #ffb101;
         color: black;
         font-size: 1.5rem;
@@ -168,18 +178,19 @@
     /*videos style*/
 
     .videos {
-        background-image: url("https://wow.zamimg.com/uploads/screenshots/normal/1020692.jpg");
-        background-repeat: no-repeat;
-        background-position: center center;
         overflow: hidden;
         height: auto;
         width: 100%;
+        height: auto;
+
     }
 
     .videos h2 {
         text-align: center;
         font-size: 280%;
-        padding: 20px 0 20px;
+        padding: 50px 0 50px;
+        background-color: #ffb101;
+        color: black;
     }
 
     .videos #allvideos {
@@ -209,8 +220,11 @@
         text-decoration: none;
         padding: 10px 0 10px;
     }
-    .classguide h2{
+
+    .classguide h2 {
         padding: 20px 0 20px;
+        background-color: #ffb101;
+        color: black;
     }
 
     .class {
@@ -220,7 +234,8 @@
     #guide li {
         list-style: none;
     }
-    #guide #dh span{
+
+    #guide #dh span {
         padding: 20px 0 20px;
     }
 
@@ -245,22 +260,31 @@
     }
 
     /*raid style*/
+    #back {
+        background-color: rgba(8, 8, 8, 0.604);
+        padding: 10px 0 10px;
+        
+    }
 
     .raid {
-        background-image: url(https://s3-eu-central-1.amazonaws.com/www-staging.esports.com/WP%20Media%20Folder%20-%20esports-com//var/app/current/web/app/uploads/2020/07/WoW-Shadowlands-Beta-startet.jpg);
+        background-image: url(https://static.icy-veins.com/forum-files/news/57989-more-detailed-sanctum-of-domination-seak-peek-preview.jpg);
         background-repeat: no-repeat;
+        background-size: 100%;
         text-align: center;
         background-position: center center;
         height: auto;
         clear: both;
         width: 100%;
+        
     }
 
     .raid h2 {
         font-size: 280%;
-        padding: 50px 0 40px;
+        padding: 40px 0 40px;
         font-family: roboto, sans-serif;
         text-decoration: none;
+        background-color: #ffb101;
+        color: black;
     }
 
     .raid a {
@@ -268,8 +292,9 @@
         color: #ffb101;
         font-family: beba neue, sans-serif;
         padding: 20px 0 20px;
-        text-decoration: none;
         margin: 50px;
+        
+       
     }
 
     .raid a:hover {
@@ -280,12 +305,15 @@
         font-size: 180%;
         padding: 50px 0 40px;
         font-family: roboto, sans-serif;
+        background-color: #ffb101;
+        color: black;
     }
 
     #times p {
         font-size: 1.3rem;
         font-family: beba neue, sans-serif;
         padding: 20px 0 20px;
+        background-color: rgba(8, 8, 8, 0.604);
     }
 
     /*raiders style*/
@@ -303,6 +331,8 @@
         font-size: 280%;
         font-family: roboto, sans-serif;
         text-align: center;
+        background-color: #ffb101;
+        color: black;
     }
 
     .main {
@@ -335,10 +365,9 @@
     }
 
     .recruiting {
-        padding: 20px 0 20px;
         text-align: center;
         clear: both;
-        background-image: url(https://images.gamewatcherstatic.com/image/file/8/02/114448/World-of-Warcraftg);
+        background-image: url(https://i1.wp.com/phenixxgaming.com/wp-content/uploads/2019/09/Anduin-and-Sylvanas-1.jpg?resize=840%2C473);
         background-repeat: no-repeat;
         background-position: center center;
         width: 100%;
@@ -350,14 +379,20 @@
     .recruiting h1 {
         font-size: 3rem;
         padding: 20px 0 20px;
+        background-color: #ffb101;
+        color: black;
     }
 
     .recruiting p {
-
+        background-color: rgba(8, 8, 8, 0.604);
         font-size: 1.5rem;
         font-family: beba neue, sans-serif;
         padding: 20px 0 20px;
 
+    }
+    .recruiting h2{
+        background-color: #ffb101;
+        color: black;
     }
 
     #contactUs {
@@ -366,6 +401,8 @@
         font-size: 3rem;
         font-family: 'beba Neue', sans-serif;
         text-align: center;
+        background-color: #ffb101;
+        color: black;
     }
 
     .form {
@@ -389,6 +426,7 @@
     .email {
         font-size: 2.3rem;
     }
+
 
 
 
@@ -420,6 +458,12 @@
         clear: both;
         height: 150px;
         padding: 0;
+    }
+
+    .recruiting {
+        background-size: 100%;
+        height: auto;
+        width: 100%;
     }
 
 
@@ -456,7 +500,9 @@
         .videos #allvideos {
             column-count: 2;
         }
-        .main {column-count: 2;
+
+        .main {
+            column-count: 2;
         }
     }
 
@@ -469,7 +515,7 @@
 
         .videos {
             height: auto;
-            
+
         }
 
         .videos #allvideos {
@@ -480,13 +526,14 @@
             column-count: 1;
         }
     }
-    @media screen and (max-width: 400px){
 
-        #logo{
+    @media screen and (max-width: 400px) {
+
+        #logo {
             font-size: 240%;
             line-height: 50px;
         }
-        
+
         #menu {
             clear: left;
             float: left;
@@ -494,104 +541,151 @@
             padding: 20px 0 20px;
             line-height: 30px;
         }
+
+        #shadowland {
+            background-size: 350%;
+
+        }
+
         #shadow {
             height: 400px;
             width: 100%;
         }
 
-        #cover-info{
+        #cover-info {
             width: 50%;
             height: auto;
             padding-top: 0%;
 
         }
-        #us{
+
+        #us {
             font-size: 150%;
         }
-        h2{
+
+        h2 {
             font-size: 100%;
         }
-        #about #we-tell{
+
+        #about #we-tell {
             font-size: 100%;
         }
-        #pa{
+
+        #pa {
             font-size: 1.2rem;
             margin: 0 0 20px;
         }
-        
-        .copyright{
+
+        .copyright {
             font-size: 1rem;
         }
-        #roster img{ 
+
+        #roster img {
             width: 40%;
             height: auto;
         }
+
         #guide a {
             font-size: 1.5rem;
         }
-        #guide img{
+
+        #guide img {
             width: 40%;
-            height: auto;
+            height: 110px;
         }
-        .videos h2{
+
+        .videos {
+            background-size: 350%;
+
+        }
+
+        .videos h2 {
             font-size: 130%;
             padding: 0 0 10px;
         }
-        #allvideos img{
+
+        #allvideos img {
             width: 50%;
             height: auto;
-           
-            
+
+
         }
-        .classguide h2{
+
+        .classguide h2 {
             font-size: 100%;
             padding: 0 0 20px;
         }
-       .raid h2{
+
+        .raid {
+            background-size: 350%;
+        }
+
+        .raid h2 {
             font-size: 150%;
             padding: 20px 0 20px;
         }
-        .raid a{
+
+        .raid a {
             font-size: 1.3rem;
             padding: 10px 20px 10px;
         }
-        #times h3{
+
+        #times h3 {
             font-size: 130%;
             padding: 20px 0 10px;
         }
-        #times p{
+
+        #times p {
             font-size: 1.2rem;
             padding: 10px 0 10px;
         }
-        .raidroster h2{
+
+        .raidroster h2 {
             font-size: 150%;
             padding: 20px 0 20px;
         }
-        #roster span{
+
+        #roster span {
             font-size: 1.5rem;
         }
-        .recruiting h1{
+
+        .recruiting h1 {
             font-size: 150%;
             padding: 10px 0 10px;
         }
+
+        .recruiting {
+            background-size: 350%;
+            height: auto;
+            width: 100%;
+            background-position: center center;
+
+
+        }
+
         .recruiting p {
             font-size: 1.2rem;
             padding: 10px 0 10px;
         }
+
         #contactUs {
             font-size: 150%;
             padding: 0 0 10px;
         }
+
         .form {
             font-size: 1.2rem;
         }
-        .email{
+
+        .email {
             font-size: 1rem;
         }
-        .form-input{
+
+        .form-input {
             font-size: 1.2rem;
         }
-        #formButton{
+
+        #formButton {
             font-size: 1.2rem;
         }
 
