@@ -43,7 +43,7 @@
 
     #menu li {
         float: right;
-        padding: 0 0 0 30px;
+        padding: 0 10px 0 10px;
         list-style-type: none;
     }
 
