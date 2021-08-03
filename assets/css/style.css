@@ -480,3 +480,48 @@
             column-count: 1;
         }
     }
+    @media screen and (max-width: 400px){
+
+        #logo{
+            font-size: 240%;
+            line-height: 50px;
+        }
+        
+        #menu {
+            clear: left;
+            float: left;
+            display: grid;
+            padding: 20px 0 20px;
+            line-height: 30px;
+        }
+        .copyright{
+            font-size: 1rem;
+        }
+        #roster img{ 
+            width: 40%;
+            height: auto;
+        }
+        #guide a {
+            font-size: 1.5rem;
+        }
+        #guide img{
+            width: 40%;
+            height: auto;
+        }
+        .videos h2{
+            font-size: 130%;
+            padding: 0 0 10px;
+        }
+        #allvideos img{
+            width: 50%;
+            height: auto;
+           
+            
+        }
+        .classguide h2{
+            font-size: 100%;
+            padding: 0 0 20px;
+        }
+        
+
+    }
