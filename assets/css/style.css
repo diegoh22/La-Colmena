@@ -1,5 +1,13 @@
     @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 
+    @function max($numbers...) {
+        @return m#{a}x(#{$numbers});
+    }
+
+    @function min($numbers...) {
+        @return m#{i}n(#{$numbers});
+    }
+
     * {
         margin: 0%;
         padding: 0%;
@@ -405,10 +413,11 @@
         color: black;
     }
 
-    .form{
+    .form {
         padding: 20px 0 20px;
         text-align: center;
     }
+
     .form-group {
         font-size: 2rem;
         display: inline-grid;
@@ -429,9 +438,10 @@
 
     .form-check {
         font-size: 1.5rem;
-        
+
     }
-    .form-text{
+
+    .form-text {
         font-size: 1.2rem;
         color: #ffb101;
     }
