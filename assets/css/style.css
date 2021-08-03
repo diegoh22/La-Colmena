@@ -547,6 +547,29 @@
             font-size: 100%;
             padding: 0 0 20px;
         }
+       .raid h2{
+            font-size: 150%;
+            padding: 20px 0 20px;
+        }
+        .raid a{
+            font-size: 1.3rem;
+            padding: 10px 20px 10px;
+        }
+        #times h3{
+            font-size: 130%;
+            padding: 20px 0 10px;
+        }
+        #times p{
+            font-size: 1.2rem;
+            padding: 10px 0 10px;
+        }
+        .raidroster h2{
+            font-size: 150%;
+            padding: 20px 0 20px;
+        }
+        #roster span{
+            font-size: 1.5rem;
+        }
         
 
     }
