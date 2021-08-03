@@ -20,6 +20,7 @@
         text-transform: uppercase;
         letter-spacing: 4px;
         color: #ffb101;
+        
     }
 
     #logo {
@@ -53,15 +54,19 @@
     #menu a:hover {
         color: aqua;
     }
-    #menu a:active{
+
+    #menu a:active {
         border-bottom: solid 2px;
     }
-    #menu a:focus{
+
+    #menu a:focus {
         bottom: solid 2px;
     }
-    #menu a:focus-visible{
+
+    #menu a:focus-visible {
         bottom: solid 2px;
     }
+
     /* shadowland image*/
 
     #shadow {
@@ -89,7 +94,7 @@
         text-transform: uppercase;
         letter-spacing: 4px;
         width: 300px;
-        height: auto;
+        height: 200px;
         padding-top: 40px;
         padding-left: 10px;
         background-color: rgba(238, 255, 0, 0.473);
@@ -110,7 +115,7 @@
     }
 
     #us {
-        margin: 25px;
+        padding: 20px 0 20px;
         font-size: 280%;
         font-family: roboto, sans-serif;
     }
@@ -118,11 +123,12 @@
     #pa {
         width: 100%;
         text-align: center;
-        margin: 0 auto;
+        margin:20px 0 20px;
         background-color: #ffb101;
         color: black;
         font-size: 1.5rem;
         font-family: bebas neue, sans-serif;
+        padding: 10px 0 10px;
     }
 
     /*sign up with you name */
@@ -150,13 +156,15 @@
     .footer {
         text-align: center;
         background-color: #ffb101;
+        padding: 20px 0 20px;
     }
-    
+
     .copyright {
         color: black;
         font-family: bebas neue;
-        
+
     }
+
     .footer a {
         font-size: 2.5rem;
         color: black;
@@ -177,21 +185,27 @@
     .videos h2 {
         text-align: center;
         font-size: 280%;
-        margin: 25px;
+        padding: 20px 0 20px;
     }
 
     .videos #allvideos {
         text-align: center;
         column-count: 5;
-        padding: 20px 0;
+        padding: 20px 0 20px;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+
     }
 
     .videos a {
         padding: 5px;
     }
-    #allvideos img{
-height: auto;
-width: 100%;
+
+    #allvideos img {
+        height: auto;
+        width: 100%;
     }
 
     /*guides style*/
@@ -199,6 +213,10 @@ width: 100%;
     .classguide {
         text-align: center;
         text-decoration: none;
+        padding: 10px 0 10px;
+    }
+    .classguide h2{
+        padding: 20px 0 20px;
     }
 
     .class {
@@ -208,10 +226,13 @@ width: 100%;
     #guide li {
         list-style: none;
     }
+    #guide #dh span{
+        padding: 20px 0 20px;
+    }
 
     #guide a {
         text-decoration: none;
-        font-size: 1.5rem;
+        font-size: 2rem;
         color: #ffb101;
     }
 
@@ -222,6 +243,7 @@ width: 100%;
     #guide img {
         height: auto;
         width: 24%;
+        padding: 20px 0 20px;
     }
 
     #guide span {
@@ -242,7 +264,7 @@ width: 100%;
 
     .raid h2 {
         font-size: 280%;
-        padding: 50px 0 50px;
+        padding: 50px 0 40px;
         font-family: roboto, sans-serif;
         text-decoration: none;
     }
@@ -251,8 +273,9 @@ width: 100%;
         font-size: 1.7rem;
         color: #ffb101;
         font-family: beba neue, sans-serif;
-        padding: 10px 0 10px;
+        padding: 20px 0 20px;
         text-decoration: none;
+        margin: 50px;
     }
 
     .raid a:hover {
@@ -261,14 +284,14 @@ width: 100%;
 
     #times h3 {
         font-size: 180%;
-        padding: 10px 0 10px;
+        padding: 50px 0 40px;
         font-family: roboto, sans-serif;
     }
 
     #times p {
         font-size: 1.3rem;
         font-family: beba neue, sans-serif;
-        padding: 10px 0 10px;
+        padding: 20px 0 20px;
     }
 
     /*raiders style*/
@@ -279,7 +302,7 @@ width: 100%;
         background-position: center center;
         width: 100%;
         clear: both;
-        
+
     }
 
     .raidroster h2 {
@@ -308,14 +331,15 @@ width: 100%;
     }
 
     #roster img {
-        width: 30%;
+        width: 50%;
         height: auto;
     }
 
     #roster span {
         display: flow-root;
-       padding: 10px 0 10px;
+        padding: 20px 0 20px;
     }
+
     .recruiting {
         padding: 20px 0 20px;
         text-align: center;
@@ -325,19 +349,21 @@ width: 100%;
         background-position: center center;
         width: 100%;
         width: auto;
-        
+
 
     }
-    .recruiting h1{
+
+    .recruiting h1 {
         font-size: 3rem;
         padding: 20px 0 20px;
     }
+
     .recruiting p {
-    
+
         font-size: 1.5rem;
         font-family: beba neue, sans-serif;
         padding: 20px 0 20px;
-       
+
     }
 
     #contactUs {
@@ -347,22 +373,26 @@ width: 100%;
         font-family: 'beba Neue', sans-serif;
         text-align: center;
     }
+
     .form {
         font-size: 3rem;
         padding: 20px 0 20px;
         text-align: center;
 
     }
+
     .form-input {
         font-size: 2rem;
         border-radius: 3px;
         margin: 5px;
     }
+
     #formButton {
         font-size: 2rem;
         border-radius: 3px;
     }
-    .email{
+
+    .email {
         font-size: 2.3rem;
     }
 
@@ -373,14 +403,14 @@ width: 100%;
 
     @media screen and (max-width: 1200px) {
         #about {
-            width: 65%;
-            height: 1200px;
+            width: 100%;
+            height: auto;
             margin: 0 auto;
         }
 
         #us {
             padding: 30px 0;
-            margin: 0;
+            margin: 0 auto;
         }
     }
 
@@ -397,7 +427,7 @@ width: 100%;
         height: 150px;
         padding: 0;
     }
-   
+
 
     /*for media screen sizes fro 950px wide and down*/
 
@@ -432,6 +462,8 @@ width: 100%;
         .videos #allvideos {
             column-count: 2;
         }
+        .main {column-count: 2;
+        }
     }
 
     /*for small screen sizes 800px and down*/
@@ -443,6 +475,7 @@ width: 100%;
 
         .videos {
             height: auto;
+            
         }
 
         .videos #allvideos {
