@@ -147,10 +147,10 @@
     .copyright {
         color: black;
         font-family: bebas neue;
-        font-size: 2rem;
+        
     }
     .footer a {
-        font-size: 3rem;
+        font-size: 2.5rem;
         color: black;
     }
 
@@ -180,6 +180,10 @@
     .videos a {
         padding: 5px;
     }
+    #allvideos img{
+height: auto;
+width: 100%;
+    }
 
     /*guides style*/
 
@@ -208,6 +212,7 @@
 
     #guide img {
         height: auto;
+        width: 24%;
     }
 
     #guide span {
@@ -223,11 +228,12 @@
         background-position: center center;
         height: auto;
         clear: both;
+        width: 100%;
     }
 
     .raid h2 {
         font-size: 280%;
-        padding-top: 280px;
+        padding: 50px 0 50px;
         font-family: roboto, sans-serif;
         text-decoration: none;
     }
@@ -236,7 +242,7 @@
         font-size: 1.7rem;
         color: #ffb101;
         font-family: beba neue, sans-serif;
-        margin: 30px;
+        padding: 10px 0 10px;
         text-decoration: none;
     }
 
@@ -246,14 +252,14 @@
 
     #times h3 {
         font-size: 180%;
-        margin: 10px;
+        padding: 10px 0 10px;
         font-family: roboto, sans-serif;
     }
 
     #times p {
         font-size: 1.3rem;
         font-family: beba neue, sans-serif;
-        padding: 10px;
+        padding: 10px 0 10px;
     }
 
     /*raiders style*/
@@ -264,6 +270,7 @@
         background-position: center center;
         width: 100%;
         clear: both;
+        
     }
 
     .raidroster h2 {
@@ -292,12 +299,13 @@
     }
 
     #roster img {
-        width: 40%;
+        width: 30%;
+        height: auto;
     }
 
     #roster span {
         display: flow-root;
-        padding-top: 10px;
+       padding: 10px 0 10px;
     }
     .recruiting {
         padding: 20px 0 20px;
@@ -339,10 +347,14 @@
     .form-input {
         font-size: 2rem;
         border-radius: 3px;
+        margin: 5px;
     }
     #formButton {
         font-size: 2rem;
         border-radius: 3px;
+    }
+    .email{
+        font-size: 2.3rem;
     }
 
 
