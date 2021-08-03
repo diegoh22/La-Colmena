@@ -53,7 +53,15 @@
     #menu a:hover {
         color: aqua;
     }
-
+    #menu a:active{
+        border-bottom: solid 2px;
+    }
+    #menu a:focus{
+        bottom: solid 2px;
+    }
+    #menu a:focus-visible{
+        bottom: solid 2px;
+    }
     /* shadowland image*/
 
     #shadow {
@@ -152,6 +160,7 @@
     .footer a {
         font-size: 2.5rem;
         color: black;
+        padding: 10px 0 10px;
     }
 
     /*videos style*/
