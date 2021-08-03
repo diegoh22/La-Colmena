@@ -1,6 +1,7 @@
 # The Hive Mind
 ## Gaming Guild
 [View the live project here](https://diegoh22.github.io/La-Colmena/index.html)
+![La mente colmena](https://user-images.githubusercontent.com/83575427/128081789-387d0deb-300b-4894-b396-3aea9a902f26.png)
 
 alt text
 The image is from Am I responsive?
