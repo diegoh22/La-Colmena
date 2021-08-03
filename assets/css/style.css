@@ -143,12 +143,15 @@
         text-align: center;
         background-color: #ffb101;
     }
-
     
     .copyright {
         color: black;
         font-family: bebas neue;
-        font-size: 1rem;
+        font-size: 2rem;
+    }
+    .footer a {
+        font-size: 3rem;
+        color: black;
     }
 
     /*videos style*/
@@ -296,6 +299,54 @@
         display: flow-root;
         padding-top: 10px;
     }
+    .recruiting {
+        padding: 20px 0 20px;
+        text-align: center;
+        clear: both;
+        background-image: url(https://images.gamewatcherstatic.com/image/file/8/02/114448/World-of-Warcraftg);
+        background-repeat: no-repeat;
+        background-position: center center;
+        width: 100%;
+        width: auto;
+        
+
+    }
+    .recruiting h1{
+        font-size: 3rem;
+        padding: 20px 0 20px;
+    }
+    .recruiting p {
+    
+        font-size: 1.5rem;
+        font-family: beba neue, sans-serif;
+        padding: 20px 0 20px;
+       
+    }
+
+    #contactUs {
+        padding: 20px 0 20px 0;
+        padding-top: 50px;
+        font-size: 3rem;
+        font-family: 'beba Neue', sans-serif;
+        text-align: center;
+    }
+    .form {
+        font-size: 3rem;
+        padding: 20px 0 20px;
+        text-align: center;
+
+    }
+    .form-input {
+        font-size: 2rem;
+        border-radius: 3px;
+    }
+    #formButton {
+        font-size: 2rem;
+        border-radius: 3px;
+    }
+
+
+
 
     /*media queries*/
 
@@ -325,6 +376,7 @@
         height: 150px;
         padding: 0;
     }
+   
 
     /*for media screen sizes fro 950px wide and down*/
 
