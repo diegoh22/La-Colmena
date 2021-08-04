@@ -184,7 +184,7 @@ As a returning visitor to the website, I want to be able to find the contact pag
 The footer provides link to the guild Discord where you can speak with all guild members.
 ![foooter](https://user-images.githubusercontent.com/83575427/128102529-16606092-9ac9-47cd-88ee-67c9db58a2a8.JPG)
 
-The phone number and address of the designer has been shared in the footer on every page.
+
 # Code validation
 - I used W3C CSS validation and W3C Markup Validation to check the validity of the website code.
 
@@ -206,7 +206,7 @@ The phone number and address of the designer has been shared in the footer on ev
 # Color Contrast
 The initial color: ##81b214; had Contrast Ratio of 2.52:1 with the white background. So I changed it to a darker green. The Color Contrast Accessibility Validator was used to test for colour contrast on the project.
 
-alt text.![contract](https://user-images.githubusercontent.com/83575427/128102576-de474208-95b1-4bb8-8fb3-685cff5239b8.JPG)
+![contract](https://user-images.githubusercontent.com/83575427/128102576-de474208-95b1-4bb8-8fb3-685cff5239b8.JPG)
 
 
 # COMPATIBILITY
