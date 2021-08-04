@@ -1,3 +1,4 @@
+
 # The Hive Mind
 ## Gaming Guild
 [View the live project here](https://diegoh22.github.io/La-Colmena/index.html)
@@ -133,21 +134,37 @@ Testing client stories from UX section of README.md
 
 - The user can navigate through the website using the navbar on top of the page.
 - The logo links the user back to the Home Page.
+ ![menu](https://user-images.githubusercontent.com/83575427/128101935-7e937e4e-4cd2-46c9-820f-5bdea38bca68.JPG)
+
 alt text
 
 - The 4 reasons on Home Page provide more information about the designer to the users.
+![sivi](https://user-images.githubusercontent.com/83575427/128102050-a5e9b75a-34c4-4679-bc12-4661558823fc.JPG) 
+
+![parah](https://user-images.githubusercontent.com/83575427/128102182-f9fbb2a4-1257-40be-a032-3f3812b681d5.JPG)
 alt text
 
 
 - registation button working corrently
+- ![contact](https://user-images.githubusercontent.com/83575427/128102280-eb29830b-bdd7-4aeb-8692-410b88487689.JPG)
+
 
 - As a new visitor, I would like to learn more about the designer’s vision, so I can get to know their background better. I would also like to know the reasons how this designer stands out of the crowd.
+![videos](https://user-images.githubusercontent.com/83575427/128102371-f2ec5eb4-6a60-4542-9fc9-f1eef941e93a.JPG)
+![main1](https://user-images.githubusercontent.com/83575427/128102426-c4754981-fdff-4920-97a4-18d45e2e7f6f.JPG)
+![raid2](https://user-images.githubusercontent.com/83575427/128102432-3fd4ffd2-6b7a-4fa6-9f1e-e8416faba204.JPG)
 
 - The 4 reasons on Home Page provide more information about the designer to the users.
 - The gallery on Work Page will show the designer’s range of skills.
-alt text
+alt text![raid](https://user-images.githubusercontent.com/83575427/128102448-a898ccad-9ee9-4111-a430-27a8fc8d6aa1.JPG)
+![guide1](https://user-images.githubusercontent.com/83575427/128102481-be323c04-148b-4e1a-9689-8dbe6570ff24.JPG)
+![guide2](https://user-images.githubusercontent.com/83575427/128102491-4e2426a2-e82d-45f9-983b-218d8d86d2f8.JPG)
+![guide3](https://user-images.githubusercontent.com/83575427/128102500-da6e9346-bfae-4334-bcf6-26dd9a7a0166.JPG)
+![Gide4](https://user-images.githubusercontent.com/83575427/128102502-71e7beb8-5183-4cfc-8c0f-b7deb464188f.JPG)
+
 
 - As a new visitor, I would like to know the designer’s process and approach to their clients and projects. I would like to work with approachable designers and have a clear picture of what I should expect.
+![foooter](https://user-images.githubusercontent.com/83575427/128102529-16606092-9ac9-47cd-88ee-67c9db58a2a8.JPG)
 
 - In Contact Page, users can review the consultations process and have a realistic idea of a Project Timeline.
 alt text
@@ -167,9 +184,11 @@ The phone number and address of the designer has been shared in the footer on ev
 
 - Several issues were identified on W3C Markup Validation.
 
-alt text
+alt text![Capture](https://user-images.githubusercontent.com/83575427/128102545-034a1ca7-01ca-4183-b6bc-48d15f85d1aa.JPG)
 
-alt text
+
+alt text![Capture2](https://user-images.githubusercontent.com/83575427/128102554-ad0a8cb3-ea05-4037-9de1-d9763a86f493.JPG)
+
 
 alt text
 
@@ -177,12 +196,14 @@ alt text
 
 - No errors were identified in the CSS code by W3C CSS validation.
 
-alt text
+alt text![Capture3](https://user-images.githubusercontent.com/83575427/128102559-daf26b3e-3154-4267-89c5-57e7ecf77e4d.JPG)
+
 
 # Color Contrast
 The initial color: ##81b214; had Contrast Ratio of 2.52:1 with the white background. So I changed it to a darker green. The Color Contrast Accessibility Validator was used to test for colour contrast on the project.
 
-alt text.
+alt text.![contract](https://user-images.githubusercontent.com/83575427/128102576-de474208-95b1-4bb8-8fb3-685cff5239b8.JPG)
+
 
 # COMPATIBILITY
 To ensure a broad range of users can successfully view/use the site, I tested it across all major browsers in both desktop and mobile configuration.
