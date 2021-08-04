@@ -175,13 +175,13 @@ The raid and raiders is give you the progresionto the main roster in all dificul
 ![Gide4](https://user-images.githubusercontent.com/83575427/128102502-71e7beb8-5183-4cfc-8c0f-b7deb464188f.JPG)
 
 - As a potential recluiter, would like to know what class and spots available in the raid they have.
- with the contact us page they have all the information their require about the recluitment, and we will create a log in access to some extra information.
+ with the contact us page they have all the information their require about the recluitment, and you can fill up the form and send to us your request.
 ![recruit](https://user-images.githubusercontent.com/83575427/128172999-675e4cad-9893-494f-a3e9-41c8c300f4de.JPG)
 
 
 
 
-As a returning visitor to the website, I want to be able to find the contact page easily to reach the guild members.
+As a new visitor to the website, I want to be able to find the contact page easily to reach the guild members.
 The footer provides link to the guild Discord where you can speak with all guild members.
 ![foooter](https://user-images.githubusercontent.com/83575427/128102529-16606092-9ac9-47cd-88ee-67c9db58a2a8.JPG)
 
