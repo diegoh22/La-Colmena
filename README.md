@@ -153,18 +153,22 @@ Testing client stories from UX section of README.md
 ![sivi](https://user-images.githubusercontent.com/83575427/128102050-a5e9b75a-34c4-4679-bc12-4661558823fc.JPG) 
 
 ![parah](https://user-images.githubusercontent.com/83575427/128102182-f9fbb2a4-1257-40be-a032-3f3812b681d5.JPG)
-alt text
+
 
 
 - As a new visitor, I would like to know what can help me to progress and understanding of the raid and raiders.
 The raid and raiders is give you the progresionto the main roster in all dificulties and  have also a presentantion of who the main roster is.
 ![raid](https://user-images.githubusercontent.com/83575427/128102448-a898ccad-9ee9-4111-a430-27a8fc8d6aa1.JPG)
+
 ![main1](https://user-images.githubusercontent.com/83575427/128102426-c4754981-fdff-4920-97a4-18d45e2e7f6f.JPG)
+
 ![raid2](https://user-images.githubusercontent.com/83575427/128102432-3fd4ffd2-6b7a-4fa6-9f1e-e8416faba204.JPG)
 
 - The guid page provite with more general informationa about bosses and classes.
 - The guide page will show the visitor, with a videos of boss encounters and guide to understand better you class
 ![videos](https://user-images.githubusercontent.com/83575427/128102371-f2ec5eb4-6a60-4542-9fc9-f1eef941e93a.JPG)
+
+
 ![guide1](https://user-images.githubusercontent.com/83575427/128102481-be323c04-148b-4e1a-9689-8dbe6570ff24.JPG)
 ![guide2](https://user-images.githubusercontent.com/83575427/128102491-4e2426a2-e82d-45f9-983b-218d8d86d2f8.JPG)
 ![guide3](https://user-images.githubusercontent.com/83575427/128102500-da6e9346-bfae-4334-bcf6-26dd9a7a0166.JPG)
