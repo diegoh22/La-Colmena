@@ -5,109 +5,121 @@
 ![La mente colmena](https://user-images.githubusercontent.com/83575427/128081789-387d0deb-300b-4894-b396-3aea9a902f26.png)
 
 alt text
-The image is from Am I responsive?
+The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
-This is a full-fledge website for Guild members to visit, The website features, 'Guild history', ‘Videos about raids’, ‘Classes guides’, ‘Raid progresion’, ‘Raids time table’, 'Main roster presentation' ‘Registation acces’ and 'social media for members'. The objective of this projects is to help and assist guild members and a introduction to new guild members.
+This is a 4 different pages website, is mainly focus to Word of Wardcraft playes and the guild members, The website features, 'Guild history', ‘Videos about raids’, ‘Classes guides’, ‘Raid progresion’, ‘Raids time table’, 'Main roster presentation' ‘Registation access’ and 'social media for members'. The objective of this projects is to help and assist guild members and to welcome new guild members.
 
-The website is mainly to help guild members with guides and videos to progress with in the game content, having all the information and tools in the samen web page, will give to the member a fast access to a proggres content, so they can focus on enjoying the game instead of seraching for information else where.
+The website is to help guild members with guides and videos to progress with in the game content and recluitment, having all the information and tools in the samen website, will give to the member a fast access to a high end content, so they can enjoy the game instead of searching for information else where.
 
 The goals of this website are:
 
-
 - presentation for new members.
-- Help the members with the progresion.
-- Having a sigle place to find all the information they need.
+- Help the members with the progression.
+- Having a single place to find all the information they need.
 - Save time and searching to different website to find all the information and tools require.
+
 
 The members visit this website to:
 
-- To gather all the information and knowlegd to be able to progress with out stress.
+- To gather all the information and knowlegd to be able to progress without stress.
 - having the time to understand every class and boss encounter.
 - knowing about our history.
-- Enjoying the game as much is possible.
+- recluit new members.
 
 # UX
-Most gaming website are more focus on presentation of the own content without giving any extra tools to make the navigation easy, as they are oveload with information.
-My idea with this website is to make visually very atractive and funcional, the navigation is very eye catching with a niche touch color contrast and images background.
-also have a good presentation of who they are as a guild, and very much focus on the game content, so went you navigate the website you feel that you still in the game.
+My idea with this website is to make visually very atractive and funcional, the navigation is very eye catching with a nice touch color contrast and images background.
+also have a good presentation of who they are as a guild, and very much focus on the game content, went you navigate the website you feel that you still in the game.
 
 ## Ideal Users
 The ideal Users for this site is:
 
-- English speaking
-- In love with gaming
-- idea of Word of Wardcraft
-- Need fo improving in the gaming word
+- English speaking.
+- In love with gaming.
+- A bit of Word of Wardcraft knowledge.
+- Someone that wants to be  better at the game.
 
 The project help users to:
 
 - Navigate easy throughout the whole site with out loosing track of anything
-- get knowlegd about guild, members, raids, raid bosses, and classes guides.
+- get knowlegd about guild, members, raids, raid bosses, classes guides and the available spots on the raid.
 
 ## User stories:
 
-1. As a new user the contrast with the black and yelow color is really nice.
-2. the images on the header and body are epic every sesion ,Home,guides,raid and raider, have a different image related to the content.
-3. The links to a guides with diffent website and classes logos are brilliant
+1. As a new user the contrast with the black and yellow color is really nice, make you feel like you are inside of a Hive full of bees.
+2. the images on the header and body are epic, Home, raid and raider, have a different image related to the content.
+3. The links to a guides with diffent website and classes logos are brilliant.
 4. videos are a nice touch as the guild always are looking for videos of how to kill bosses and having all toguether is a great idea.
 
 ## Scope
 
 To achieve the strategic goals, I included the following features in the website:
 
-- Header containing Guild logo and the menu bar including Home, Guides, and Raid and raiders.
-- Home page which say about the guild server and Horde facition.
+- Header containing Guild logo and the menu bar including Home, Guides,Raid and raiders, and Contact us.
+- Home page which say about the guild server and facition they represent.
 - guild history where they come from and who they are.
+- Guides have videos with boss encounter that you can watch as you go or open in a different tap and Class clickeable icon conected to external website with information about each Class.
+- Raid and Raiders have a clickeable letter{ Normal, Heroic, Mythic} that have access to the guild progresion, also raid schedule time for the raid and a presentantion clickeable icons with
+raiders information.
+- Contact us have a recluitment page with a Email submit, that they will use to contact in case they need you.
 - Footer containing the sing in button, and links to discord and a copyright text.
+
 ## Skeleton
-The website consists of three pages; Home (introduces to the guild history, server and faction), Guides (show videos guides to boss encounter and navigation links for each class of the game), and Raid and Raiders (Have progetion and times for the raid, and a presentation of the raid members with links conected to they character information).
+The website consists of four separate pages; Home (introduces to the guild history, server and faction), Guides (show videos guides to boss encounter and navigation links for each class of the game), Raid and Raiders (Have progetion and times for the raid, and a presentation of the raid members with links conected to they character information) contact us (a recluitment page that have a submit Email).
 
 ### Wireframe Mockups:
 - [Home](https://diegoh22.github.io/La-Colmena/index.html)
 - [Guide](https://diegoh22.github.io/La-Colmena/guide.html)
 - [Raid and Raiders](https://diegoh22.github.io/La-Colmena/raid-and-raiders.html)
+- [Contact Us](https://diegoh22.github.io/La-Colmena/contact-us.html)
 ## Surface
 
-The logo is place to the left to have a better vision of it, the navigation bar are place to the raid to have better feeling on navigation and a clear idea of where to focus your atention.
-the color contrast yelow and black is giving the impresion of a honey bee or bumble bee making the name and brand very atractive, the images are mainly focus on the game most popular characteres at this time.
-Is have a nice soft hover (aqua) color to make the website more about the content and little details also it doent kill the idea behing of the honey bees.
-the font family I use make the fonts getting out of the desing as call very much the atention of readers, as they are very easy to read and the view doent make you lose your concentration.
+The logo is place to the left to have a better vision of it, the navigation bar are place to the right to have better feeling on navigation and a clear idea of where to focus your atention.
+the color contrast yellow and black is giving the impresion of a honey bee  making the name and brand very atractive, the images are mainly focus on the game most popular characteres at this time.
+Is have a nice soft hover (aqua) color to make the website more about the content and little details also it doent kill the idea behing of the honey bee.
+the font family I use make the fonts getting out of the desing as call very much the atention, as they are very easy to read.
 ## Features
 
 #### Header
-The website consists of three pages; Home, Guide and Raid and Raiders. The header contains a logo and navigation bar on the right of the page. This will create consistency throughout the page and the user can access the information via the navigation bar and move around the site. The links will remain active when in use.
+The website consists of four pages; Home, Guide, Raid and Raiders, contact us. The header contains a logo and navigation bar on the right of the page. This will create consistency throughout the page and the user can access the information via the navigation bar and move around the site. The links will remain active when in use.
 
 #### Footer
-Every page has a footer with sing in button, social media icons and copyright information. The social media icons are linked to the users’ social media account.
+Every page has a footer with the social media icon and copyright information. The social media icon is linked to the Discord.
 
 #### Home
-The Home page wellcome you with image of the raid boss to give to the user a game feeling. there is some information about the guild to make the users feel connected to the brand.
+The Home page wellcome you with image of the raid boss to give to the user a game feeling. there is some information about the guild to make the users feel connected to the brand. At the bottom of the page you have access to the social media.
+
 
 #### Guide
-The Guide page have a 2 separate section one with videos and the second one with images, features videos in 5 column and images in 2 columns wide for laptop and desktop devices, 2 for iPads and 2, 1 column wide for mobile devices. Each  video can be clicked to open a fancybox window to view further videos/details of each boss encounter, the images also are clickable and give you a access to a new tap for futher information about the class.  At the bottom of the page you have access to the social media and the sing in button. 
+The Guide page have a 2 separate section one with videos and the second one with images, features videos in 5 column and images in 2 columns wide for laptop and desktop devices, 2 for iPads and 2, 1 column wide for mobile devices. Each  video can be clicked to open a fancybox window to view further videos/details of each boss encounter, the images also are clickeable and give you a access to a new tap for futher information about the class. At the bottom of the page you have access to the social media.
+
 
 #### Raid and Raiders
-The Raid and Raiders page have 2 separate section one with clickeable fonts to access to the raid progression and the second one with the presentation of the main roster. features images in 2 columns wide for laptop and desktop devices, 1 for iPads and , 1 column wide for mobile devices. Each  images also are clickable and give you a access to a new tap for futher information about the Raiders. At the bottom of the page you have access to the social media and the sing in button.
+The Raid and Raiders page have 2 separate section one with clickeable fonts to access to the raid progression and the second one with the presentation of the main roster. features images in 2 columns wide for laptop and desktop devices, 1 for iPads and , 1 column wide for mobile devices. Each images also are clickable and give you a access to a new tap for futher information about the Raiders. At the bottom of the page you have access to the social media.
+
+### Contact us 
+The contact us page is focus on recluitment for the raid and guild, it have a really nice text exolaining what we need and how to apply, also it have a email requistation button.
 
 # Existing Features
 - Header Logo – Exists on every page aiming to promote brand awareness. Clicking on the logo will return the users to the Home page as they expect.
 - Header Navigation Bar – Exists on every page to allow users to navigate the website and move from one page to another for access to more information.
 - Home Page – Is a short introduction of the Guild, a history about the guild creation and the officials and guild Master.
 - Guide – It giving the user videos for boss encounters and images for each class guide, Each videos are clicked to open a fancybox window to view further and image is clickable and can be viewed in a new page.
-- Fancybox Viewer – Allows potential clients to view the boss encounters in more details. It opens in the videos in a bigger scale and users can move to the next of previous video and/or close them to return to the website.
+- Fancybox Viewer – Allows to view the boss encounters in more details. It opens in the videos in a bigger scale and users can move to the next of previous video and/or close them to return to the website.
 - Footer – Exists on every page and contains copyright to protect the content of the website; the social media and icons which link the discord media platform; and  a sing in button.
 - The about us - Exists to give the use a presentation of the guild and the history of it.
+- Raid and raiders - Exits to give to the user a information about the raid progress, time table and  raiders information.
+- Contact us - Exists for recluitment information and process.
 
 # Features to Implement in future
 Due to lack of information and time:
 
-- Add more social media icons like, Youtube, Twitch, as the guild doenst corrently have those social media.
+- Add more social media icons like, Youtube, Twitch, as the guild doens't corrently have those social media.
 - Upload button to be able to upload temporaly information and videos and audio.
 - Add a Download button to be able to Download videos and information.
 - background music to be able to listlen while you are navigating.
-- Recluitment form pages, for people to be able to be part of the guild.
 - Option to choose languages.
 - Guild pictureas and videos killing bosses.
+- dropdown button with addons links.
 
 
 
@@ -133,50 +145,40 @@ Testing client stories from UX section of README.md
 1. As a new visitor, I want to easily navigate the site to find whether the designer the right fit for my needs.
 
 - The user can navigate through the website using the navbar on top of the page.
+[menu](https://user-images.githubusercontent.com/83575427/128101935-7e937e4e-4cd2-46c9-820f-5bdea38bca68.JPG)
 - The logo links the user back to the Home Page.
- ![menu](https://user-images.githubusercontent.com/83575427/128101935-7e937e4e-4cd2-46c9-820f-5bdea38bca68.JPG)
 
-alt text
 
-- The 4 reasons on Home Page provide more information about the designer to the users.
+- The Home Page provide more information about the guild creation to the users.
 ![sivi](https://user-images.githubusercontent.com/83575427/128102050-a5e9b75a-34c4-4679-bc12-4661558823fc.JPG) 
 
 ![parah](https://user-images.githubusercontent.com/83575427/128102182-f9fbb2a4-1257-40be-a032-3f3812b681d5.JPG)
 alt text
 
 
-- registation button working corrently
-- ![contact](https://user-images.githubusercontent.com/83575427/128102280-eb29830b-bdd7-4aeb-8692-410b88487689.JPG)
-
-
-- As a new visitor, I would like to learn more about the designer’s vision, so I can get to know their background better. I would also like to know the reasons how this designer stands out of the crowd.
-![videos](https://user-images.githubusercontent.com/83575427/128102371-f2ec5eb4-6a60-4542-9fc9-f1eef941e93a.JPG)
+- As a new visitor, I would like to know what can help me to progress and understanding of the raid and raiders.
+The raid and raiders is give you the progresionto the main roster in all dificulties and  have also a presentantion of who the main roster is.
+![raid](https://user-images.githubusercontent.com/83575427/128102448-a898ccad-9ee9-4111-a430-27a8fc8d6aa1.JPG)
 ![main1](https://user-images.githubusercontent.com/83575427/128102426-c4754981-fdff-4920-97a4-18d45e2e7f6f.JPG)
 ![raid2](https://user-images.githubusercontent.com/83575427/128102432-3fd4ffd2-6b7a-4fa6-9f1e-e8416faba204.JPG)
 
-- The 4 reasons on Home Page provide more information about the designer to the users.
-- The gallery on Work Page will show the designer’s range of skills.
-alt text![raid](https://user-images.githubusercontent.com/83575427/128102448-a898ccad-9ee9-4111-a430-27a8fc8d6aa1.JPG)
+- The guid page provite with more general informationa about bosses and classes.
+- The guide page will show the visitor, with a videos of boss encounters and guide to understand better you class
+![videos](https://user-images.githubusercontent.com/83575427/128102371-f2ec5eb4-6a60-4542-9fc9-f1eef941e93a.JPG)
 ![guide1](https://user-images.githubusercontent.com/83575427/128102481-be323c04-148b-4e1a-9689-8dbe6570ff24.JPG)
 ![guide2](https://user-images.githubusercontent.com/83575427/128102491-4e2426a2-e82d-45f9-983b-218d8d86d2f8.JPG)
 ![guide3](https://user-images.githubusercontent.com/83575427/128102500-da6e9346-bfae-4334-bcf6-26dd9a7a0166.JPG)
 ![Gide4](https://user-images.githubusercontent.com/83575427/128102502-71e7beb8-5183-4cfc-8c0f-b7deb464188f.JPG)
 
+- As a potential recluiter, would like to know what class and spots available in the raid they have.
+ with the contact us page they have all the information their require about the recluitment, and we will create a log in access to some extra information.
+![contact](https://user-images.githubusercontent.com/83575427/128102280-eb29830b-bdd7-4aeb-8692-410b88487689.JPG)
 
-- As a new visitor, I would like to know the designer’s process and approach to their clients and projects. I would like to work with approachable designers and have a clear picture of what I should expect.
+
+
+As a returning visitor to the website, I want to be able to find the contact page easily to reach the guild members.
+The footer provides link to the guild Discord where you can speak with all guild members.
 ![foooter](https://user-images.githubusercontent.com/83575427/128102529-16606092-9ac9-47cd-88ee-67c9db58a2a8.JPG)
-
-- In Contact Page, users can review the consultations process and have a realistic idea of a Project Timeline.
-alt text
-
-
-- As a potential client, I would like to learn more about the designers’ works and get validation via their history and presence in the social media. It is more reassuring to trust businesses who have a solid follower base.
-
-The galley on Work Page showcases the designer’s range of skills and projects.
-The footer provides links to the designer's social media platforms.
-alt text
-
-As a returning visitor to the website, I want to be able to find the contact page easily to reach the designer.
 
 The phone number and address of the designer has been shared in the footer on every page.
 # Code validation
@@ -184,19 +186,17 @@ The phone number and address of the designer has been shared in the footer on ev
 
 - Several issues were identified on W3C Markup Validation.
 
-alt text![Capture](https://user-images.githubusercontent.com/83575427/128102545-034a1ca7-01ca-4183-b6bc-48d15f85d1aa.JPG)
+[Capture](https://user-images.githubusercontent.com/83575427/128102545-034a1ca7-01ca-4183-b6bc-48d15f85d1aa.JPG)
 
 
-alt text![Capture2](https://user-images.githubusercontent.com/83575427/128102554-ad0a8cb3-ea05-4037-9de1-d9763a86f493.JPG)
+[Capture2](https://user-images.githubusercontent.com/83575427/128102554-ad0a8cb3-ea05-4037-9de1-d9763a86f493.JPG)
 
-
-alt text
 
 - After I rectified the issue, no further errors were picked.
 
 - No errors were identified in the CSS code by W3C CSS validation.
 
-alt text![Capture3](https://user-images.githubusercontent.com/83575427/128102559-daf26b3e-3154-4267-89c5-57e7ecf77e4d.JPG)
+[Capture3](https://user-images.githubusercontent.com/83575427/128102559-daf26b3e-3154-4267-89c5-57e7ecf77e4d.JPG)
 
 
 # Color Contrast
