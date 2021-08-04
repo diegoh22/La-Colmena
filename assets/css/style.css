@@ -26,13 +26,11 @@
 
     #logo {
         float: left;
-        font-size: 280%;
         padding: 0 0 0 30px;
     }
 
     /* navigation links*/
     #menu {
-        font-size: 110%;
         letter-spacing: 4px;
     }
 
@@ -121,7 +119,6 @@
 
     #us {
         padding: 20px 0 20px;
-        font-size: 280%;
         font-family: roboto, sans-serif;
     }
 
@@ -188,7 +185,6 @@
 
     .videos h2 {
         text-align: center;
-        font-size: 280%;
         padding: 50px 0 50px;
         background-color: #ffb301ad;
         color: black;
@@ -280,7 +276,6 @@
     }
 
     .raid h2 {
-        font-size: 280%;
         padding: 40px 0 40px;
         font-family: roboto, sans-serif;
         text-decoration: none;
@@ -301,7 +296,6 @@
     }
 
     #times h3 {
-        font-size: 180%;
         padding: 50px 0 40px;
         font-family: roboto, sans-serif;
         background-color: #ffb301ad;
@@ -327,7 +321,6 @@
     }
 
     .raidroster h2 {
-        font-size: 280%;
         font-family: roboto, sans-serif;
         text-align: center;
         background-color: #ffb301ad;
@@ -398,7 +391,6 @@
     #contactUs {
         padding: 20px 0 20px 0;
         padding-top: 50px;
-        font-size: 3rem;
         font-family: 'beba Neue', sans-serif;
         text-align: center;
         background-color: #ffb301ad;
@@ -411,7 +403,7 @@
     }
 
     .form-group {
-        font-size: 2rem;
+        font-size: 1.5rem;
         display: inline-grid;
 
     }
@@ -423,7 +415,7 @@
     }
 
     .btn {
-        font-size: 1.5rem;
+        font-size: 1.1rem;
         border-radius: 3px;
         margin: 10px;
     }
