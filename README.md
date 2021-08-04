@@ -176,7 +176,8 @@ The raid and raiders is give you the progresionto the main roster in all dificul
 
 - As a potential recluiter, would like to know what class and spots available in the raid they have.
  with the contact us page they have all the information their require about the recluitment, and we will create a log in access to some extra information.
-![contact](https://user-images.githubusercontent.com/83575427/128102280-eb29830b-bdd7-4aeb-8692-410b88487689.JPG)
+![recruit](https://user-images.githubusercontent.com/83575427/128172999-675e4cad-9893-494f-a3e9-41c8c300f4de.JPG)
+
 
 
 
@@ -206,7 +207,8 @@ The footer provides link to the guild Discord where you can speak with all guild
 # Color Contrast
 The initial color: ##81b214; had Contrast Ratio of 2.52:1 with the white background. So I changed it to a darker green. The Color Contrast Accessibility Validator was used to test for colour contrast on the project.
 
-![contract](https://user-images.githubusercontent.com/83575427/128102576-de474208-95b1-4bb8-8fb3-685cff5239b8.JPG)
+!![contract](https://user-images.githubusercontent.com/83575427/128172953-2e456d15-5975-4db3-b714-97e839975137.JPG)
+
 
 
 # COMPATIBILITY
