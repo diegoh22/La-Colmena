@@ -13,7 +13,7 @@
         background-color: black;
     }
 
-    /* heading and logo style*/
+    /*heading and logo style*/
     h1,
     h2 {
         font-family: bebas neue, sans-serif;
@@ -29,7 +29,7 @@
         padding: 0 0 0 30px;
     }
 
-    /* navigation links*/
+    /*navigation links*/
     #menu {
         letter-spacing: 4px;
     }
@@ -60,7 +60,7 @@
     }
 
 
-    /* shadowland image*/
+    /*shadowland image*/
 
     #shadow {
         height: auto;
@@ -133,7 +133,7 @@
         padding: 10px 0 10px;
     }
 
-    /*sign up with you name */
+    /*sign up with you name*/
 
     #youname {
         text-align: center;
@@ -153,7 +153,7 @@
         font-size: 1.2rem;
     }
 
-    /* footer style*/
+    /*footer style*/
 
     .footEr {
         text-align: center;
