@@ -4,7 +4,7 @@
 [View the live project here](https://diegoh22.github.io/La-Colmena/index.html)
 ![La mente colmena](https://user-images.githubusercontent.com/83575427/128081789-387d0deb-300b-4894-b396-3aea9a902f26.png)
 
-alt text
+
 The image is from [Am I responsive?](http://ami.responsivedesign.is/)
 
 This is a 4 different pages website, is mainly focus to Word of Wardcraft playes and the guild members, The website features, 'Guild history', ‘Videos about raids’, ‘Classes guides’, ‘Raid progresion’, ‘Raids time table’, 'Main roster presentation' ‘Registation access’ and 'social media for members'. The objective of this projects is to help and assist guild members and to welcome new guild members.
@@ -97,7 +97,7 @@ The Guide page have a 2 separate section one with videos and the second one with
 The Raid and Raiders page have 2 separate section one with clickeable fonts to access to the raid progression and the second one with the presentation of the main roster. features images in 2 columns wide for laptop and desktop devices, 1 for iPads and , 1 column wide for mobile devices. Each images also are clickable and give you a access to a new tap for futher information about the Raiders. At the bottom of the page you have access to the social media.
 
 ### Contact us 
-The contact us page is focus on recluitment for the raid and guild, it have a really nice text exolaining what we need and how to apply, also it have a email requistation button.
+The contact us page is focus on recruitment for the raid and guild, it have a really nice text exolaining what we need and how to apply, also it have a email requistation button.
 
 # Existing Features
 - Header Logo – Exists on every page aiming to promote brand awareness. Clicking on the logo will return the users to the Home page as they expect.
@@ -191,17 +191,20 @@ The footer provides link to the guild Discord where you can speak with all guild
 
 - Several issues were identified on W3C Markup Validation.
 
-[Capture](https://user-images.githubusercontent.com/83575427/128102545-034a1ca7-01ca-4183-b6bc-48d15f85d1aa.JPG)
+![W3C](https://user-images.githubusercontent.com/83575427/128325943-76e63061-da53-4b2b-a9eb-c99e5bf1cda8.JPG)
 
 
-[Capture2](https://user-images.githubusercontent.com/83575427/128102554-ad0a8cb3-ea05-4037-9de1-d9763a86f493.JPG)
+
+![W3c](https://user-images.githubusercontent.com/83575427/128325928-f9bcf185-5adb-4084-b7c2-731ea949ced9.JPG)
+
 
 
 - After I rectified the issue, no further errors were picked.
 
-- No errors were identified in the CSS code by W3C CSS validation.
+- Erros on fancybox CSS code by W3C CSS validation.
 
-[Capture3](https://user-images.githubusercontent.com/83575427/128102559-daf26b3e-3154-4267-89c5-57e7ecf77e4d.JPG)
+![Cssfancybox](https://user-images.githubusercontent.com/83575427/128325617-d9447208-fe46-474f-8ec0-e72ef035b260.JPG)
+
 
 
 # Color Contrast
@@ -262,7 +265,7 @@ The texts for all the pages have been created by the the Owner and guild Master.
 - all images are obtaine from Google Images.
 - Testimonial logos are from Google Images.
 ### Code
-- CSS code for shadows and hover responsiveness of gallery images and ptoject timeline boxes was originally taken from Code institute [W3s](https://www.w3schools.com/.)
+- CSS code for shadows and hover responsiveness of gallery images and ptoject timeline boxes was originally taken from Code institute and [W3s](https://www.w3schools.com/.)
 # Acknowledgement
 I decided to develop this website for a group of friend and member of the guild The Hive mind / {Spanish La mente colmena}>
 
